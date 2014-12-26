@@ -1,0 +1,8 @@
+-----------------------------
+Test case
+========================================
+Details:
+Variable window size with 4 drops
+
+=========================================
+See the config file and log file.

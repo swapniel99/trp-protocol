@@ -1,0 +1,11 @@
+SOURCE_ADDRESS = 127.0.0.1
+DESTINATION_ADDRESS = 127.0.0.10
+LOCAL_INTERFACE = lo
+WINDOW_SIZE_START = 4
+VARIABLE_WINDOW = 0    # 0 for fixed window 1 for variable window
+LOG_FILE_NAME = rough.txt
+#total packet to send:
+LAST_PACKET_NUMBER = 60
+DROP = 0
+ACK_AFTER = 4
+

@@ -1,0 +1,8 @@
+-----------------------------
+Test case
+========================================
+Details:
+Variable window with no packet drop
+
+=========================================
+See the config file and log file.

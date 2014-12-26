@@ -1,0 +1,11 @@
+SOURCE_ADDRESS = 10.42.0.1
+DESTINATION_ADDRESS = 10.42.0.25
+LOCAL_INTERFACE = wlan0
+WINDOW_SIZE_START = 4
+VARIABLE_WINDOW = 1    # 0 for fixed window 1 for variable window
+LOG_FILE_NAME = log.txt
+#total packet to send:
+LAST_PACKET_NUMBER = 60
+DROP = 10,18,25,60
+ACK_AFTER = 2
+
